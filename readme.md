@@ -4,3 +4,5 @@
 
 1. configure EC2 Instances(t2.large)
 2. configure security group with custom TCP:8080, custom TCP: 4001-4002
+
+figure out what its doing now, yesterday there was a few issues with the location of files I believe
