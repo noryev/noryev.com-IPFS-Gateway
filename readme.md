@@ -10,3 +10,7 @@ figure out what its doing now, yesterday there was a few issues with the locatio
 use [this](https://discuss.ipfs.tech/t/ipfs-gateway-setup-configuration-problems-am-i-doing-this-right/15338) Its talking about another problem, not the same as this instance... Explore more
 
 ## lets try this walkthrough next: https://gist.github.com/NatoBoram/09d244ab02af16fecb62b917f7bee3c0
+
+After setting this up ^^, I cannot put this on an open end-point until I get a bad-bits mechanism to keep banned content off of the gateway.
+
+Go checkout joroppo's gateway and figure out if thats open or not...
