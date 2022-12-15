@@ -16,4 +16,3 @@ Environment="IPFS_PATH=/home/ubuntu/data/ipfs"
 [Install]
 
 WantedBy=multi-user.target
-s
