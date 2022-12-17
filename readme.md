@@ -14,3 +14,5 @@ use [this](https://discuss.ipfs.tech/t/ipfs-gateway-setup-configuration-problems
 After setting this up ^^, I cannot put this on an open end-point until I get a bad-bits mechanism to keep banned content off of the gateway.
 
 Go checkout joroppo's gateway and figure out if thats open or not...
+
+Correctly move the domain over to Cloudflare-
